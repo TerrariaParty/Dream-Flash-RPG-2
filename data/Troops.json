@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"members":[{"enemyId":3,"x":140,"y":436,"hidden":false},{"enemyId":3,"x":216,"y":436,"hidden":false},{"enemyId":3,"x":293,"y":436,"hidden":false},{"enemyId":3,"x":370,"y":436,"hidden":false},{"enemyId":3,"x":446,"y":436,"hidden":false},{"enemyId":3,"x":523,"y":436,"hidden":false},{"enemyId":3,"x":600,"y":436,"hidden":false},{"enemyId":3,"x":677,"y":436,"hidden":false}],"name":"Rage Clouds","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[{"code":0,"indent":0,"parameters":[]}],"span":0}]},
+{"id":2,"members":[],"name":"","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[{"code":0,"indent":0,"parameters":[]}],"span":0}]},
+{"id":3,"members":[],"name":"","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[{"code":0,"indent":0,"parameters":[]}],"span":0}]},
+{"id":4,"members":[],"name":"","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[{"code":0,"indent":0,"parameters":[]}],"span":0}]}
+]
