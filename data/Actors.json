@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Soul","nickname":"Soul","note":"","profile":"Your soul. Currently in the depths of your psyche."},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Actor5","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Snowman","nickname":"Snowy","note":"","profile":"A snowman looking to wander the world."},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor4","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helpful Soul","nickname":"HS","note":"","profile":"A helpful wandering soul."},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor4","classId":2,"equips":[1,1,2,3],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Soul","nickname":"","note":"","profile":"Your soul, a manifestation of your consciousness.\nIn the depths of your psyche, you now control it."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Actor5","classId":3,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Snowman","nickname":"","note":"","profile":"A snowman looking to wander the world."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor4","classId":4,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helpful Soul","nickname":"","note":"","profile":"A helpful wandering soul."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
