@@ -8,6 +8,6 @@ null,
 {"id":6,"expanded":true,"name":"Flash Pit Dungeon","order":7,"parentId":5,"scrollX":768.8571428571428,"scrollY":535.7142857142857},
 {"id":7,"expanded":true,"name":"Flash Dun Room 1","order":8,"parentId":6,"scrollX":672.75,"scrollY":468.75},
 {"id":8,"expanded":false,"name":"Flash Dungeon Shop","order":9,"parentId":7,"scrollX":660.75,"scrollY":468.75},
-{"id":9,"expanded":false,"name":"Flash Dungeon Forge","order":10,"parentId":7,"scrollX":660.75,"scrollY":468.75},
+{"id":9,"expanded":false,"name":"Flash Dungeon Forge","order":10,"parentId":7,"scrollX":1136,"scrollY":663},
 {"id":10,"expanded":false,"name":"Flash Town Section 2","order":5,"parentId":1,"scrollX":768.8571428571428,"scrollY":535.7142857142857}
 ]
