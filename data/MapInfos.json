@@ -1,13 +1,14 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Flash Start","order":1,"parentId":0,"scrollX":1136,"scrollY":663},
-{"id":2,"expanded":true,"name":"Flash Town Section 1","order":2,"parentId":1,"scrollX":768.8571428571428,"scrollY":535.7142857142857},
-{"id":3,"expanded":true,"name":"Flash Town Shop","order":4,"parentId":2,"scrollX":768.8571428571428,"scrollY":535.7142857142857},
-{"id":4,"expanded":false,"name":"Flash Town Inn","order":3,"parentId":2,"scrollX":768.8571428571428,"scrollY":535.7142857142857},
-{"id":5,"expanded":true,"name":"Flash Plains","order":6,"parentId":1,"scrollX":755.1428571428571,"scrollY":662.5714285714286},
-{"id":6,"expanded":true,"name":"Flash Pit Dungeon","order":7,"parentId":5,"scrollX":768.8571428571428,"scrollY":535.7142857142857},
-{"id":7,"expanded":true,"name":"Flash Dun Room 1","order":8,"parentId":6,"scrollX":672.75,"scrollY":468.75},
-{"id":8,"expanded":false,"name":"Flash Dungeon Shop","order":9,"parentId":7,"scrollX":660.75,"scrollY":468.75},
-{"id":9,"expanded":false,"name":"Flash Dungeon Forge","order":10,"parentId":7,"scrollX":1136,"scrollY":663},
-{"id":10,"expanded":false,"name":"Flash Town Section 2","order":5,"parentId":1,"scrollX":768.8571428571428,"scrollY":535.7142857142857}
+{"id":2,"expanded":false,"name":"Flash Town Section 1","order":2,"parentId":1,"scrollX":1136,"scrollY":663},
+{"id":3,"expanded":true,"name":"Flash Town Shop","order":4,"parentId":2,"scrollX":1136,"scrollY":663},
+{"id":4,"expanded":false,"name":"Flash Town Inn","order":3,"parentId":2,"scrollX":1136,"scrollY":663},
+{"id":5,"expanded":false,"name":"Flash Plains","order":7,"parentId":1,"scrollX":1120,"scrollY":663},
+{"id":6,"expanded":false,"name":"Flash Pit Dungeon","order":8,"parentId":5,"scrollX":1136,"scrollY":663},
+{"id":7,"expanded":false,"name":"Flash Dun Room 1","order":9,"parentId":6,"scrollX":1136,"scrollY":663},
+{"id":8,"expanded":false,"name":"Flash Dungeon Shop","order":10,"parentId":7,"scrollX":660.75,"scrollY":468.75},
+{"id":9,"expanded":false,"name":"Flash Dungeon Forge","order":11,"parentId":7,"scrollX":1136,"scrollY":663},
+{"id":10,"expanded":true,"name":"Flash Town Section 2","order":5,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Flash Town WillMaw's House","order":6,"parentId":10,"scrollX":1136,"scrollY":663}
 ]
